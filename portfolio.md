@@ -11,7 +11,7 @@
 |소속|올바른코드|
 |소개|중고 상품 경매 플랫폼|
 |기간|2021.03 ~ 2021.06 |
-|역할|Back-end(100%), DB Modeling, 관리자페이지(40%) |
+|역할|Back-end(100%), DB Modeling, Front-end(40%) |
 |사용기술|TypeScript, NodeJS(NestJS), Svelte, MariaDB,<br> AWS(EC2, RDS, S3, Cloud Front) |
 |주요기능|결제(아임포트, 이니시스, 다날), 실시간채팅(socket.io), 물품 경매|
 |회고|<a href="">작성중</a>|
