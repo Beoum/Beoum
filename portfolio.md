@@ -14,7 +14,7 @@
 |역할|Back-end(100%), DB Modeling, Front-end(40%) |
 |사용기술|TypeScript, NodeJS(NestJS), Svelte, MariaDB,<br> AWS(EC2, RDS, S3, Cloud Front) |
 |주요기능|결제(아임포트, 이니시스(에스크로), 다날), 실시간채팅(socket.io), 물품 경매|
-|회고|<a href="">작성중</a>|
+|회고|<a href="https://beoum.github.io/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%84%A4%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/">보기</a>|
 
   ### 3. 스마트바이저 
 ||<img src="https://user-images.githubusercontent.com/61001656/110558731-5a913a80-8186-11eb-8dc1-02953ff4a544.png" width="33.9%" align="center">|
